@@ -1,0 +1,33 @@
+body {
+    background-color: #2a1d6e;
+    padding-top: 20px;
+}
+
+.form-container {
+    background-color: #14d3a9;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 0.1);
+}
+
+h1 {
+    color: #13a04d;
+    margin-bottom: 30px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+
+.btn-primary:hover {
+    background-color: #5f0063;
+}
+
+.btn-secondary:hover {
+    background-color: #353131; 
+}
